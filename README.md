@@ -41,4 +41,4 @@ Feel free to reach out if you have any questions or ideas for collaboration:
 - [Email](mailto:fzfz.fzfz2001@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/vhs1ove)
 - [GitHub](https://github.com/vhs1ove)
-- [HeadHunter](https://hh.ru/)
+- [My Resume (PDF)](HH_Viacheslav_K.pdf)
