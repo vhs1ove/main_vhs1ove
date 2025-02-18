@@ -28,6 +28,11 @@ I'm a QA Engineer with **2 years of experience** in software testing. During thi
 - **Certifications & Courses**  
   - Successfully completed a comprehensive course on [Stepik](https://stepik.org/course/123896/syllabus).
 
+## Examples of My Work
+
+Here's an example of my test cases based on given requirements:  
+- [Test Cases Example](Hermodoor_test_cases_Viacheslav_K.xlsx)
+
 ## About Me
 
 I am committed to continuous professional development, constantly honing my skills and eagerly taking on new challenges. My goal is to deliver high-quality products, collaborate effectively with teams, and contribute to the enhancement of testing processes.
