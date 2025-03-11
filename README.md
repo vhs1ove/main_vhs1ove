@@ -1,6 +1,6 @@
 # Hello! My name is Viacheslav
 
-I'm a QA Engineer with **2 years of experience** in software testing. During this time, I've mastered modern tools and methodologies that ensure high-quality products.
+I'm a QA Engineer CI/CD VCS with **2 years of experience** in software testing. During this time, I've mastered modern tools and methodologies that ensure high-quality products.
 
 ## Key Skills and Experience
 
